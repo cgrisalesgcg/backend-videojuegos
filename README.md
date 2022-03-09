@@ -91,12 +91,13 @@ Vamos a comenzar ¿Estas listo para agregar tus juegos favoritos?
     URL (Editar juego) -> http://127.0.0.1:8000/api/registrarVideojuego
     BODY
     {
-        "nombre" : "Fifa 21",
-        "descripcion" : "Juego de futbol",
+        "nombre" : "Fifa 22",
+        "descripcion" : "Juego de futbol 22",
         "produccion" : "EA Sports",
-        "anio_creacion" : "2021",
-        "img" : "img/fifa.png",
+        "anio_creacion" : "2022",
+        "img" : "img/fifa22.png",
         "id" : "1"
     }
-    Espero te haya funcionado, hasta un nuevo proyecto ;)
 ```
+
+Espero te haya funcionado, hasta un nuevo proyecto ;)
