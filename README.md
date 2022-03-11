@@ -13,7 +13,11 @@ Para realizar la ejecucion del proyecto debes ejecutar desde la consola
     ```
     composer global require laravel/installer`
     ```
--   Crear la base de datos con el nombre backend_videojuegos
+-   Realiza el clone del proyecto
+    ```
+    git clone https://github.com/cgrisalesgcg/backend-videojuegos.git
+    ```
+-   Crear la base de datos con el nombre backend_videojuegos con decodificacion ut8_general_ci
 -   Ejecutar el comando (Instalacion de paquetes JWT)
     ```
     composer install
